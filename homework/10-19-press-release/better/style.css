@@ -1,0 +1,102 @@
+body {
+  font-family: arimo;
+  background-image: url("https://jlr7245.github.io/ga_press_release_continued/hero.png");
+  background-size: cover;
+  font-size: 16px;
+  line-height: 1.25;
+}
+
+.container {
+  width: 70%;
+  max-width: 1000px;
+  margin: 120px auto;
+  background-color: #fff;
+}
+
+.head {
+  padding: 50px 7% 0;
+}
+
+.fir {
+  margin: 70px 0 5px 0;
+  text-indent: 20px;
+  text-transform: uppercase;
+  letter-spacing: 3px;
+  font-style: italic;
+  color: #CF4948;
+  font-family: Fira Mono;
+  font-size: 16px;
+}
+
+h1 {
+  font-family: Oswald;
+}
+
+.subcont {
+    margin-bottom: 50px;
+    padding: 0 7%;
+}
+
+.content {
+    width: 60%;
+    padding: 1%;
+    display: block;
+    display: inline-block;
+}
+
+.content ul {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 100%;
+    font: inherit;
+    vertical-align: baseline;
+    list-style: none;
+    font-family: "fira mono";
+    text-align: center;
+}
+
+.content ul li {
+    color: white;
+    background-color: firebrick;
+    border-radius: 10px;
+    display: inline-block;
+    padding: 3px 12px;
+    margin: 5px;
+    border-bottom: 2px solid #A20101;
+}
+
+.side {
+    width: 30%;
+    padding: 3%;
+    display: block;
+    float: right;
+    border-left: 1px solid #ddd;
+}
+
+.side > h3 {
+  font-size: 24px;
+  color: #CF4948;
+  font-family: Oswald;
+}
+
+.linktosite {
+    font-size: 1.2em;
+    border: 5px solid white;
+    background: none;
+    color: white;
+    border-radius: 20px;
+    outline: none;
+    box-shadow: none;
+    padding: 5px 10px;
+    font-family: "fira mono", monospace;
+}
+
+.side .linktosite {
+    border-color: #CF4948;
+}
+
+.side a {
+  text-decoration: none;
+}
+
