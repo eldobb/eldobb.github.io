@@ -1,0 +1,157 @@
+body {
+  margin: 20px 30px;
+  font-family: Lato;
+}
+
+.container {
+  width: 960px;
+}
+
+header {
+  overflow: hidden;
+  padding-bottom: 30px;
+  width: 960px;
+}
+
+.title {
+  padding-bottom: 10px;
+}
+
+header h1 {
+  color: #DF1800;
+  display: inline;
+  font-weight: 300;
+  font-size: 48px;
+}
+
+header h3 {
+  display: inline;
+  padding-left: 5px;
+  color: #888888;
+  font-weight: 300;
+  font-size: 24px;
+}
+
+nav ul {
+  padding: 0;
+  margin: 0 auto;
+}
+
+nav ul li{
+  display: inline-block;
+  padding: 20px;
+  background-color: #000;
+  color: #fff;
+  text-align: center;
+  width: calc(100%/6.1);
+  box-sizing: border-box;
+}
+
+#left {
+  width: 640px;
+  display: inline-block;
+  margin-right: 40px;
+  vertical-align: top;
+  float: left;
+}
+
+#left img {
+  width: 640px;
+}
+
+#right {
+  width: 280px;
+  display: inline-block;
+  vertical-align: top;
+  line-height: 1.5;
+}
+
+.post {
+  border-bottom: 1px solid #DDDDDD;
+  padding-bottom: 30px;
+  margin-bottom: 30px;
+  font-family: Lato;
+}
+
+.date {
+  margin-bottom: 10px;
+  margin-top: 0px;
+  color: #DDDDDD;
+  font-weight: 300;
+  font-size: 24px;
+}
+
+.post p:first-of-type:first-letter {
+  float: left;
+  color: #DDDDDD;
+  font-size: 80px;
+  line-height: 50px;
+  padding-right: 4px;
+  padding-left: 3px;
+  font-weight: 300;
+}
+
+.posttitle {
+  font-weight: 400;
+  font-size: 24px;
+  margin-top: 0px;
+  margin-bottom: 10px;
+}
+
+.post p {
+  line-height: 1.5;
+  font-size: 16px; 
+}
+
+.continues {
+  text-align: right;
+}
+
+.continues a {
+  text-decoration: none;
+  color: #DF1800;
+  font-weight: 600;
+}
+
+.side {
+    border-bottom: 1px solid #DDDDDD;
+    margin-bottom: 30px;
+    color: #888888;
+}
+
+.side img {
+  width: 280px;
+  margin-bottom: 30px;
+}
+
+.side a {
+  text-decoration: none;
+  color: #DF1800;
+}
+
+a:hover {
+  opacity: 0.7;
+}
+
+footer {
+  clear: both;
+}
+
+footer ul {
+  padding-left: 0px;
+}
+
+footer ul li {
+  display: inline;
+  padding-right: 5px;
+  border-right: 1px solid #DDDDDD;
+}
+
+footer a {
+  text-decoration: none;
+  color: #DF1800;
+}
+
+footer li:last-of-type {
+  border: none;
+}
