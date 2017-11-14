@@ -2,31 +2,25 @@
 
 ## Project Description
 
-Use this section to describe your final project and perhaps any links to relevant sites that help convey the concept and\or functionality.
+My project is twofold: first, a redesign of the website for the Lower East Side Harm Reduction Center; second, an added section to their website with some data infographics.
 
 | Site Url        | Desired Features           | 
 | ------------- |-------------| 
-| [GeneralAssembly](https://generalassemb.ly/)| - layout of the start learning section <br> - layout of the choose your path section | 
-|  |   |  
-|  |   |   
+| [Acumen](https://acumen.org/)| - homepage layout <br> - drop downs | 
+| [Alliance](https://alliance.nyc/)| - menu bar <br> - sliding images  |  
+|  [LESHRC](https://http://leshrc.org/)| - content   |   
 
 ## Wireframes
 
-Include wireframes for all pages included in the site including:
+https://app.moqups.com/ldobberteen@gmail.com/XvsD41IIGa/view
 
-### Landing Page
-
-#### Desktop
-
-#### Tablet
-
-#### Mobile
 
 ## MVP 
 
-Include the full list of features that you will implement as part of your site's MVP. 
+All content from current site as it exists: directions, calendars, donation information, company information.
+On top of that, a visual representation of some of their client data. 
 
 ## POST MVP
 
-Include the full list of features that you are considering for your site's POST MVP.
+Infographics or general information about harm reduction - need to get access to some data on this.
 
